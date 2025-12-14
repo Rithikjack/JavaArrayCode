@@ -1,3 +1,4 @@
+// Code for reverse the array number and character
 import java.util.*;
 class ReversetheArray 
 {
@@ -39,6 +40,7 @@ public static void reverse(int[]a)
 				
 		}
 */
+
 
 
 
