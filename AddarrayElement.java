@@ -1,3 +1,4 @@
+// Adding all eelemnt in the array. Addition there are some codes adding by index and elements(odd and even).
 import java.util.*;
 class AddarrayElement 
 {
@@ -83,4 +84,5 @@ public static int solve (int [] a)
 		return sum;
 	}	
 	
+
 	*/
