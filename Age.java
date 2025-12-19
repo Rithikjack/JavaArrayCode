@@ -1,3 +1,4 @@
+//simple program for if elseif and else
 import java.util.Scanner;
 class  Age
 {
@@ -32,3 +33,4 @@ class  Age
 			System.out.println("Old");
 	}
 }
+
