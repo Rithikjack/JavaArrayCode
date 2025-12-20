@@ -1,3 +1,4 @@
+// add only prime numbers in the array
 import java.util.*;
 class AddPrime
 {
@@ -35,3 +36,4 @@ class AddPrime
 		return sum;
 	}
 }
+
