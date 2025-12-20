@@ -1,3 +1,4 @@
+// Arm strong number 153(1^3 + 5^3 +3^3 = 153)
 import java.util.Scanner;
 class  Armstrong
 {
@@ -39,3 +40,4 @@ class  Armstrong
 		return ans;
 	}
 }
+
