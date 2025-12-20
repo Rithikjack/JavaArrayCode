@@ -1,4 +1,4 @@
-// Simple array bascics
+// Simple array basics
 class Array 
 {
 	public static void main(String[] args) 
@@ -15,4 +15,5 @@ class Array
 		
 	}
 }
+
 
