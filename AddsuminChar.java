@@ -1,3 +1,4 @@
+// Add sum of char in Array
 import java.util.*;
 class AddsuminChar
 {
@@ -22,3 +23,4 @@ class AddsuminChar
 		return sum;
 	}
 }
+
