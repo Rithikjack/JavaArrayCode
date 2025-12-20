@@ -1,3 +1,4 @@
+// Simple array bascics
 class Array 
 {
 	public static void main(String[] args) 
@@ -14,3 +15,4 @@ class Array
 		
 	}
 }
+
