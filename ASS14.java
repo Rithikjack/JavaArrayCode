@@ -1,3 +1,4 @@
+//Reverse the array,sort the array,add the array
 import java.util.*;
 class ASS14 
 {   
@@ -70,4 +71,5 @@ class ASS14
 			return rev;
 			
 	    }
+
 }
