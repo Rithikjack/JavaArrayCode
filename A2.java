@@ -1,3 +1,4 @@
+// add the array or  sum the array
 import java.util.*;
 class A2 
 {
@@ -22,3 +23,4 @@ class A2
 		System.out.println(sum);
 	}
 }
+
