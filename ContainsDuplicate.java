@@ -1,3 +1,4 @@
+// Containts duplicate in array
 import java.util.*;
 class ContainsDuplicate 
 {
@@ -23,3 +24,4 @@ class ContainsDuplicate
 		return false;
 	}
 }
+
