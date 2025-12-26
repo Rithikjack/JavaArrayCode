@@ -1,3 +1,4 @@
+// binary search
 import java.util.*;
 class BinarySearch 
 {
@@ -66,4 +67,5 @@ class BinarySearch
 		}
 		System.out.println(Arrays.toString(a));
 		//System.out.println(count);
+
 	}*/
